@@ -18,4 +18,5 @@ Further reading: http://davidtheclark.com/on-utility-classes/
 
 
 ###Install
-    curl 
+    cd <path> to folder where you want place the file
+    touch utilities.css && curl https://raw.githubusercontent.com/SimoNonnis/CssUtilityClasses/master/utilities.css > utilities.css
