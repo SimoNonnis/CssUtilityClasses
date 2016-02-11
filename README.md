@@ -14,3 +14,4 @@ Avoid building entire sections of UI out of u-.
 Utilities are complete single responsibility rules which have a very specific and targeted task.
 Utilities make use of !important, so as to guarantee they beat other less specific ones.
 Example use case: using .u-text-center to centrally align one piece of text once and once only.
+a utility class like .float-left could show up anywhere, on any element, in any context, so we need to know that it will always do exactly the same thing. That’s why The Authorities agree that utility classes must never change, and why they are a rare case when using !important might be the right choice).
