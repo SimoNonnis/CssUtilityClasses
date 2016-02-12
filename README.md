@@ -17,12 +17,12 @@ Further reading: http://davidtheclark.com/on-utility-classes/
 
 
 
-###Install (as .css)
+###Install (.css)
     cd <path> to folder where you want place the file
     touch utilities.css
     curl https://raw.githubusercontent.com/SimoNonnis/CssUtilityClasses/master/utilities.css > utilities.css
 
-###Install (as .css)
+###Install (.scss)
     cd <path> to folder where you want place the file
     touch utilities.scss
     curl https://raw.githubusercontent.com/SimoNonnis/CssUtilityClasses/master/utilities.css > utilities.scss
