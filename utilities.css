@@ -215,7 +215,7 @@
 }
 
 
-.u-margin-lr-auto {
+.u-center {
   margin-left: auto !important;
   margin-right: auto !important;
 }
@@ -226,3 +226,16 @@
 .u-padding-b-flush {
   padding-bottom: 0 !important;
 }
+
+
+
+
+
+/* ==========================================================================
+   Reset to list, removing bullte point, margin, padding
+   ========================================================================== */
+.u-cleanList {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+} 
