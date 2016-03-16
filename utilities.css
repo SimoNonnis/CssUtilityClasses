@@ -231,8 +231,7 @@
 
 
 
-/* ==========================================================================
-   Reset to list, removing bullet point, margin, padding
+/* Reset to list, removing bullet point, margin, padding
    ========================================================================== */
 .u-cleanList {
   margin: 0 !important;
